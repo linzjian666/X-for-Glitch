@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+WSPATH=${WSPATH:-'3e7e830a-9be5-41c1-ad8b-b08403f33782'}
+UUID=${UUID:-'3e7e830a-9be5-41c1-ad8b-b08403f33782'}
 
 NEZHA_SERVER= # 哪吒三个参数，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 NEZHA_PORT=
